@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/color/abc_primary_text_material_dark.xml"
+    }
+]

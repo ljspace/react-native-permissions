@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/src/debug/shaders"/></dataSet></merger>

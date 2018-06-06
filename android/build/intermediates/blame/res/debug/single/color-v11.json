@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

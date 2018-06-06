@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/linjun/.android/build-cache/01bc7226ab1b6066a105f60c23f7172c44e06696/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/Users/linjun/.android/build-cache/01bc7226ab1b6066a105f60c23f7172c44e06696/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/Users/linjun/.android/build-cache/01bc7226ab1b6066a105f60c23f7172c44e06696/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/linjun/.android/build-cache/907cbcd0940953382b70f1046c374e4dc2d133b3/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/linjun/.android/build-cache/01bc7226ab1b6066a105f60c23f7172c44e06696/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/Users/linjun/.android/build-cache/01bc7226ab1b6066a105f60c23f7172c44e06696/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/linjun/work/code/gitlab/mobile/appstore/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/Users/linjun/.android/build-cache/01bc7226ab1b6066a105f60c23f7172c44e06696/output/res/anim/slide_up.xml"
+    }
+]

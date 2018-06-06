@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      "react-native-permissions",
+      "/Users/linjun/work/code/gitlab/mobile/appstore"
+    ],
+    [
+      {
+        "raw": "/Users/linjun/work/code/gitlab/react-native-plugin/react-native-permissions",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/Users/linjun/work/code/gitlab/react-native-plugin/react-native-permissions",
+        "spec": "/Users/linjun/work/code/gitlab/react-native-plugin/react-native-permissions",
+        "type": "directory"
+      },
+      "/Users/linjun/work/code/gitlab/mobile/appstore"
+    ]
+  ],
+  "_cnpm_publish_time": 1486673554760,
+  "_from": "react-native-permissions@latest",
+  "_hasShrinkwrap": false,
+  "_id": "react-native-permissions@0.2.7",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-permissions",
+  "_nodeVersion": "4.3.2",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-permissions-0.2.7.tgz_1486673549196_0.6533474915195256"
+  },
+  "_npmUser": {
+    "email": "yonaforst@hotmail.com",
+    "name": "joshblour"
+  },
+  "_npmVersion": "2.14.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/Users/linjun/work/code/gitlab/react-native-plugin/react-native-permissions",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/Users/linjun/work/code/gitlab/react-native-plugin/react-native-permissions",
+    "spec": "/Users/linjun/work/code/gitlab/react-native-plugin/react-native-permissions",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://192.168.116.3:8049/react-native-permissions/-/react-native-permissions-0.2.7.tgz",
+  "_shasum": "92eae05894ed99235707e20ecb8fbf7d765752ae",
+  "_shrinkwrap": null,
+  "_spec": "/Users/linjun/work/code/gitlab/react-native-plugin/react-native-permissions",
+  "_where": "/Users/linjun/work/code/gitlab/mobile/appstore",
+  "author": {
+    "name": "Yonah Forst",
+    "email": "yonaforst@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/joshblour/react-native-permissions/issues"
+  },
+  "dependencies": {},
+  "description": "Check user permissions in React Native",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "92eae05894ed99235707e20ecb8fbf7d765752ae",
+    "size": 17943858,
+    "tarball": "http://192.168.116.3:8049/react-native-permissions/-/react-native-permissions-0.2.7.tgz"
+  },
+  "gitHead": "ea111a4c4423fcba6cb039cc295daa8cceb27989",
+  "homepage": "https://github.com/joshblour/react-native-permissions",
+  "keywords": [
+    "react-native",
+    "react-permissions",
+    "permissions"
+  ],
+  "license": "MIT",
+  "main": "ReactNativePermissions",
+  "maintainers": [
+    {
+      "name": "joshblour",
+      "email": "yonaforst@hotmail.com"
+    }
+  ],
+  "name": "react-native-permissions",
+  "optionalDependencies": {},
+  "publish_time": 1486673554760,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshblour/react-native-permissions.git"
+  },
+  "scripts": {},
+  "version": "0.2.7"
+}
